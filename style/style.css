@@ -7,8 +7,8 @@
 }
 
 *{
-   margin: 1px;
-   padding: 0px;
+   margin: 4px;
+   padding: 3px;
 }
 .navber{
    display: flex;
@@ -38,7 +38,7 @@
   background-color: #C6E4D6;
   padding: 100px 80px;
   border-radius: 24px;
-  max-width: 1280px; 
+   max-width: 1280px; 
   height: 560px;
 margin: 0 auto;
 }
@@ -69,7 +69,103 @@ margin: 24px;
 
 font-weight: 474.03;
 font-size: 400px;
-
 }
 
 
+
+.h1tag{
+   font-weight: bold;
+   color: #0E0E0E; 
+   font-size: xx-large;
+   padding-top: 80px;
+
+   
+}
+.skills-container{
+   display: flex;
+   gap: 24px;
+   justify-content: space-around;
+   padding: 34px;
+}
+.skills{
+   padding: 24px;
+   background-color: #FFFFFF;
+   box-shadow: 0px 1px 1px 0px;
+   border-radius: 16px;
+   border: none;
+}
+
+
+.title2{
+  text-align: justify;
+  font-weight: 1256px;
+  font-size: 48px;
+}
+.pra{
+   text-align: justify;
+ }
+
+
+ .img-logo{
+
+ }
+ .Digital{
+padding: 32px 2px;
+display: flex;
+gap: 24px;
+box-sizing: 410.67px 325px;
+
+ }
+.Creating{
+   
+}
+.energy{
+background-color: #C6E4D6;
+}
+.growth{
+background-color: #F7EBCF;
+}
+.nationwide{
+background-color: rgba(84, 144, 245, 0.2);
+}
+.access{
+padding: 20px 11px;
+color: #FFFFFF;
+font-weight: 500;
+border-radius: 16px;
+}
+.access1{
+background-color: #5490F5;
+border: none;
+}
+.access2{
+   background-color: #09A15C;
+   border: none;
+}
+.access3{
+   background-color: #FFC239;
+   border: none;
+}
+
+
+.news{
+font-weight: bold;
+font-size: 40px;
+margin-top: 80px;
+}
+.news1{
+   margin-top: 24px;
+font-weight: 400px;
+margin-bottom: 32px;
+}
+
+.More{
+   background-color: #006A50;
+   color: white;
+   border: none;
+}
+.decent{
+
+     display: ;
+     padding: 48px 48px;
+}
