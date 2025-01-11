@@ -1,0 +1,8 @@
+*{
+   margin: 24px;
+   padding: 0px;
+}
+.navber{
+   display: flex;
+   justify-content: space-around;
+}
