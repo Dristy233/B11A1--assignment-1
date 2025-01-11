@@ -1,8 +1,34 @@
+
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+}
+
 *{
-   margin: 24px;
+   margin: 1px;
    padding: 0px;
 }
 .navber{
    display: flex;
    justify-content: space-around;
+   padding: 24px;
+
+}
+.btn{
+   padding: 15px 30px;
+   background-color: white ;
+   color: #006A50;
+   font-weight: 600;
+   border-radius: 8px;
+  border-color: #006A50;
+   
+   
+}
+.logo{
+   font-weight: bold;
+   font-size: 32px;
+   color: #0E0E0E;
+   
 }
